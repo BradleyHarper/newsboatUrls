@@ -1,10 +1,13 @@
-#lukesmith
-
 https://lukesmith.xyz/rss.xml
 https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3
 https://notrelated.xyz/rss
 https://lukesmith.xyz/youtube.xml
-
-#so
-
 https://www.youtube.com/feeds/videos.xml?channel_id=UCWJxXBND5VITb0E9fDKUxMA
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6mIxFTvXkWQVEHPsEdflzQ
+https://blog.arduino.cc/feed/
+https://arduino.stackexchange.com/feeds/week
+https://hackaday.com/category/arduino-hacks/feed/
+https://news.ycombinator.com/rss
+http://rss.slashdot.org/Slashdot/slashdot
+
+# This is for youtube, put channel name last after the equals sign => https://www.youtube.com/feeds/videos.xml?channel_id=
